@@ -1,0 +1,23 @@
+{
+  "name": "vue-cli-plugin-wartermark",
+  "version": "0.0.1",
+  "description": "created wartermark in vue-project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/guozebin-x/vue-cli-plugin-wartermark.git"
+  },
+  "keywords": [
+    "wartermark",
+    "水印"
+  ],
+  "author": "guozebin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guozebin-x/vue-cli-plugin-wartermark/issues"
+  },
+  "homepage": "https://github.com/guozebin-x/vue-cli-plugin-wartermark#readme"
+}
